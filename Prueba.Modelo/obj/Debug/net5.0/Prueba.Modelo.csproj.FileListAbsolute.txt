@@ -1,0 +1,15 @@
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\bin\Debug\net5.0\Prueba.Modelo.deps.json
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\bin\Debug\net5.0\Prueba.Modelo.runtimeconfig.json
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\bin\Debug\net5.0\Prueba.Modelo.runtimeconfig.dev.json
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\bin\Debug\net5.0\Prueba.Modelo.dll
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\bin\Debug\net5.0\Prueba.Modelo.pdb
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\obj\Debug\net5.0\Prueba.Modelo.csproj.AssemblyReference.cache
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\obj\Debug\net5.0\Prueba.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\obj\Debug\net5.0\Prueba.Modelo.AssemblyInfoInputs.cache
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\obj\Debug\net5.0\Prueba.Modelo.AssemblyInfo.cs
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\obj\Debug\net5.0\Prueba.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\obj\Debug\net5.0\Prueba.Modelo.dll
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\obj\Debug\net5.0\refint\Prueba.Modelo.dll
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\obj\Debug\net5.0\Prueba.Modelo.pdb
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\obj\Debug\net5.0\Prueba.Modelo.genruntimeconfig.cache
+C:\Users\alexm\Desktop\Prueba\Prueba\Prueba.Modelo\obj\Debug\net5.0\ref\Prueba.Modelo.dll
